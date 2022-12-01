@@ -1,0 +1,15 @@
+[package]
+name = "mutual_strip"
+version = "0.1.0"
+edition = "2021"
+authors = ["Igor O. Popov <igor_o_popov@mail.ru>"]
+license = "MIT"
+repository = "https://github.com/DrSkegg/mutual_strip"
+description = """
+Stripping string from the both sides
+"""
+readme = "README.md"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
