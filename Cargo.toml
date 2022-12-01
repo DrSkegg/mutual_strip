@@ -1,6 +1,6 @@
 [package]
 name = "mutual_strip"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Igor O. Popov <igor_o_popov@mail.ru>"]
 license = "MIT"
